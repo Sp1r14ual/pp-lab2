@@ -1,0 +1,2 @@
+Hidden secret inside nested directory.
+This should be detected by the search.
